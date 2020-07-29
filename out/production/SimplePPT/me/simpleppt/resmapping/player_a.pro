@@ -1,0 +1,1 @@
+onePlayer=playerA,bomb,520,400,39,50

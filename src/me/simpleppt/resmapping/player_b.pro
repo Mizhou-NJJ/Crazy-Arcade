@@ -1,0 +1,1 @@
+twoPlayer=playerB,bomb,50,50,39,50

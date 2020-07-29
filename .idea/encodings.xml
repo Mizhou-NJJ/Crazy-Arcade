@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/resource/image" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/bomb.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg0.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg5.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg6.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg7.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/bomb/xg8.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/player/player2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/image/prop/1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/Bomb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/Element.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/Grid.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/PlayerOne.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/PlayerTwo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/element/Prop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/frame/GFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/frame/GJpanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/frame/IndexComponent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/frame/InventoryComponent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/lg/Clear.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/lg/Life.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/lg/Listener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/lg/UpdateInventroy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/lg/WorkThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/load/LoadResource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/man/ElementFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/man/GameContext.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/proxy/DataProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/simpleppt/resmapping" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

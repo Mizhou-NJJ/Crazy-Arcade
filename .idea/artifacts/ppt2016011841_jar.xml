@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ppt2016011841:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ppt2016011841_jar</output-path>
+    <root id="archive" name="SimplePPT.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SimplePPT" />
+    </root>
+  </artifact>
+</component>
